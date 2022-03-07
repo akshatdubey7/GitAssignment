@@ -1,2 +1,6 @@
 Hi Akshat This is a text file. Hello!
+<<<<<<< HEAD
 sjdjd
+=======
+Final
+>>>>>>> second_branch
